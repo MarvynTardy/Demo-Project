@@ -1,0 +1,52 @@
+{
+    "name": "GameControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "612eb134-6631-4d76-9c5b-8cb11fc94f70",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "82ea5569-a0e0-4638-998e-87e6b563641e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "bf88bc1b-a2a8-4dee-9dc5-b94777829091",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8d0627e0-4399-40b1-b14c-f2f9f4ed2d0d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "683475a6-00d1-44f7-9311-3f93bfb6b6f8",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
